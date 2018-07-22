@@ -1,0 +1,16 @@
+{
+  "name": "hugrid.js",
+  "version": "0.1.0",
+  "description": "The Heads-Up Grid is an overlay grid for in-browser website development, built with HTML + CSS + JavaScript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotaweb/heads-up-grid.git"
+  },
+  "keywords": [
+    "grid"
+  ],
+  "author": "Jason Simanek",
+  "license": "GPL",
+  "main": "hugrid.js",
+  "homepage": "http://bohemianalps.com/tools/grid/"
+}
